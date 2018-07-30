@@ -71,6 +71,11 @@
     <Compile Include="Assets\Scripts\DragMe.cs" />
     <Compile Include="Assets\Scripts\DragPanel.cs" />
     <Compile Include="Assets\Scripts\DropMe.cs" />
+    <Compile Include="Assets\Scripts\Manto.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\MoverATeoriaTierra.cs" />
+    <Compile Include="Assets\Scripts\NcleoExterno.cs" />
+    <Compile Include="Assets\Scripts\Nucleo.cs" />
     <Compile Include="Assets\Scripts\PanelManager.cs" />
     <Compile Include="Assets\Scripts\ResizePanel.cs" />
     <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
@@ -128,11 +133,14 @@
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\TargetProyectoII.xml" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Anthony/Desktop/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    <Reference Include="Xiaomi">
+      <HintPath>D:/Espe/5 QuintoSemestre/Proyecto Integrador II/RealidadAumentadaEarth/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Library/ScriptAssemblies/Xiaomi.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Anthony/Desktop/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Espe/5 QuintoSemestre/Proyecto Integrador II/RealidadAumentadaEarth/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>D:/Espe/5 QuintoSemestre/Proyecto Integrador II/RealidadAumentadaEarth/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -329,6 +337,9 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>D:/Espe/5 QuintoSemestre/Proyecto Integrador II/RealidadAumentadaEarth/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Anthony/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
@@ -338,8 +349,11 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Anthony/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>C:/Users/Anthony/Desktop/Proyecto II/AplicacionUnity/RealidadAumentadaPrueba/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
+    <Reference Include="ChannelPurchase">
+      <HintPath>C:/Users/Anthony/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.2/ChannelPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityStore">
+      <HintPath>C:/Users/Anthony/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.2/UnityStore.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

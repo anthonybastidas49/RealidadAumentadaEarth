@@ -5,7 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Menu 3D.unity
+    guid: fa0913115ac1d4fba8b9d10280f4b04d
+  - enabled: 1
+    path: Assets/Scenes/Tierra.unity
+    guid: 0e9c4e5443578844097ca8baf92c45de
+  - enabled: 1
+    path: Assets/Scenes/TierraCapas.unity
+    guid: 275500ad729db2e46bde6e5619365c2b
+  - enabled: 1
+    path: Assets/Scenes/NucleoExterno.unity
+    guid: 073824a5e47243843a8cc7f5543478c7
+  - enabled: 1
+    path: Assets/Scenes/TeoriaTierra.unity
+    guid: 06a51ceb0d147b5459bd2dfbf8f612ab
+  - enabled: 1
+    path: Assets/Scenes/Nucleo.unity
+    guid: 77a7b00c2c194ff4b9faac1b65aae8d9
+  - enabled: 1
+    path: Assets/Scenes/Manto.unity
+    guid: ba71716f543f3fd489f75fbacf69e7af
   m_configObjects: {}
